@@ -1,4 +1,4 @@
-package com.kt.springwebservice;
+package com.kt.webservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
